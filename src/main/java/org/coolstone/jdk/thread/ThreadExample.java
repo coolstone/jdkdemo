@@ -26,6 +26,7 @@ public class ThreadExample extends Thread {
 
         System.out.println("Starting thread...");
         thread.start();
+
         thread3.start();
 
     }
