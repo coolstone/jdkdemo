@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!中文" );
         System.out.println("go");
+        int x = 99;
+        System.out.println(x);
     }
 }
