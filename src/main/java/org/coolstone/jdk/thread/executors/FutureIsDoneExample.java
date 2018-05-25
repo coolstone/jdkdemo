@@ -1,4 +1,4 @@
-package org.coolstone.jdk.concurrent;
+package org.coolstone.jdk.thread.executors;
 import java.util.concurrent.*;
 
 public class FutureIsDoneExample {
